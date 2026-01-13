@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Siloli</string>
+    <string name="title_activity_main">Siloli</string>
+    
+    <!-- Auth -->
+    <string name="login_title">Login Siloli</string>
+    <string name="register_title">Daftar Akun</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Masuk</string>
+    <string name="register_button">Daftar</string>
+    <string name="no_account">Belum punya akun? Daftar</string>
+    <string name="has_account">Sudah punya akun? Masuk</string>
+    
+    <!-- Laporan -->
+    <string name="laporan_title">Laporan Saya</string>
+    <string name="buat_laporan_title">Buat Laporan</string>
+    <string name="edit_laporan_title">Edit Laporan</string>
+    <string name="wilayah_hint">Wilayah</string>
+    <string name="aduan_hint">Isi Aduan</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="hapus">Hapus</string>
+    <string name="konfirmasi_hapus">Apakah anda yakin ingin menghapus laporan ini?</string>
+    <string name="ya">Ya</string>
+    <string name="tidak">Tidak</string>
+    <string name="kosong">Belum ada laporan.</string>
+    <string name="fab_content_desc">Buat Laporan</string>
+    <string name="logout">Keluar</string>
+</resources>
